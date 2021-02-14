@@ -11,8 +11,11 @@ dependencies:
   
   scoped_model: ^1.0.1
   cupertino_icons: ^0.1.2
-  flutter_socket_io: ^0.6.0
-  
+  socket_io: ^0.9.4
+  socket_io_client: ^0.9.12
+  stomp_dart_client: ^0.3.8
+#  flutter_socket_io: 0.6.0
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
